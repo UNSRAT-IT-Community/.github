@@ -1,4 +1,6 @@
-## OHAYOU PARA WIBU 👋
+## Akun organization untuk menampung semua repositori proyek UNITY 👋
+
+Demi Informatika yang lebih baik✊
 
 <!--
 
